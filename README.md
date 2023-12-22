@@ -4,6 +4,7 @@
 > _The discord nitro promotion code generator, thanks to Opera GX_
 
 [Installation Guide](https://github.com/orisyn/ChungusGenerator/blob/main/README.txt) | [Developer](<https://discord.com/users/1160157358610206750>)
+
 [![Discord Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/boronide)
 
 (coded in a hurry)
