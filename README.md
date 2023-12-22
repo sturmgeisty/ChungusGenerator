@@ -8,6 +8,7 @@
 [![Discord Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/boronide)
 
 (coded in a hurry)
+https://cdn.discordapp.com/attachments/1185526265231450212/1187877696148090960/j4ZlXZY.mp4
 [![Preview](https://a.allegroimg.com/original/1ee933/e30d6d6a444e84ca52e74bb1be63)](https://cdn.discordapp.com/attachments/1185526265231450212/1187877696148090960/j4ZlXZY.mp4)
 
 ## Features
